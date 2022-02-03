@@ -1,6 +1,6 @@
 -  Hi, I’m @hewyiwei
 -  I’m interested in data analysis, data processing with the help of coding
--  I’m currently learning SQL, Matlab
+-  I’m currently learning SQL, HTML, CSS, Javascript
 -  I’m looking for internship opprtunities to gain more experience
 -  Reach me at hewyiwei@gmail.com
 
