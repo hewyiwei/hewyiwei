@@ -2,7 +2,7 @@
 -  I’m interested in data analysis, data processing with the help of coding
 -  I’m currently learning SQL, HTML, CSS, Javascript
 -  I’m looking for internship opprtunities to gain more experience
--  Reach me at hewyiwei@gmail.com
+-  Please reach me at hewyiwei@gmail.com
 
 <!---
 hewyiwei/hewyiwei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
