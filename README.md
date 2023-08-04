@@ -1,7 +1,7 @@
 -  Hi, I’m Yi Wei
 -  I’m interested in data analysis, data processing with the help of coding
 -  I’m currently learning SQL, HTML, CSS, Javascript
--  I’m looking for internship opprtunities to gain more experience
+-  I’m looking for full-time opprtunities
 -  Please reach me at hewyiwei@gmail.com
 
 <!---
